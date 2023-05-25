@@ -18,3 +18,9 @@ h1 {
 p {
     font-size: larger;
 }
+button{
+    color:blue;
+    background-color:white;
+    border:solid blue 5px;
+    radius: 50%;
+}
