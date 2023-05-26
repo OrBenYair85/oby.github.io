@@ -24,3 +24,11 @@ button{
     border:solid blue 5px;
     border-radius: 10px;
 }
+button:hover{
+    color:white;
+    backgrounc-color:blue;
+}
+button:active{
+    color:red;
+    backgroundcolor:black;
+}
