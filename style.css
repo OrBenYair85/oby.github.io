@@ -1,0 +1,97 @@
+.navBar {
+    background-color: #a68a64;
+    color: white;
+    width: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #f4f3ee;
+    width: 100%;
+}
+
+.links li {
+    display: inline;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.links a:hover {
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 100px;
+}
+
+h2 {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 20px;
+}
+
+
+
+.index {
+    text-align: center;
+}
+
+#header {
+    background-color: #e0afa0;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 5px;
+
+}
+
+#mainPhoto {
+    border: solid 10px #bcb8b1;
+    border-radius: 50%;
+    width: 300px;
+    height: 400px;
+
+}
+
+li {
+    margin: 30px;
+
+}
+
+#inter {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#mid {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#woof {
+    font-size: 40px;
+}
