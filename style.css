@@ -1,13 +1,15 @@
 .navBar {
     background-color: #a68a64;
     color: white;
-    width: 100%;
+    width: 50%;
     padding-top: 5px;
     padding-bottom: 5px;
     display: block;
     text-align: center;
     margin: 0 auto;
+
 }
+
 
 * {
     font-family: 'Roboto', sans-serif;
@@ -19,41 +21,42 @@ body {
 }
 
 .links li {
-    display: block;
-    margin: 10px 0;
-    text-align: center;
+    display: inline;
 }
 
 .links a {
     color: white;
     text-decoration: none;
     cursor: pointer;
+
 }
 
 .links a:hover {
     color: black;
 }
 
+
 h1 {
     text-align: center;
-    width: 90%;
+    width: 60%;
     margin: 0 auto;
-    font-size: 60px;
+    font-size: 100px;
 }
 
 h2 {
     text-align: center;
-    width: 90%;
+    width: 50%;
     margin: 0 auto;
-    font-size: 40px;
 }
 
 p {
     text-align: center;
     margin: 0 auto;
-    width: 90%;
-    font-size: 16px;
+    width: 50%;
+    font-size: 20px;
 }
+
+
 
 .index {
     text-align: center;
@@ -62,21 +65,21 @@ p {
 #header {
     background-color: #e0afa0;
     font-family: 'Bebas Neue', sans-serif;
-    letter-spacing: 3px;
+    letter-spacing: 5px;
+
 }
 
 #mainPhoto {
     border: solid 10px #bcb8b1;
     border-radius: 50%;
-    width: 80%;
-    max-width: 300px;
-    height: auto;
-    display: block;
-    margin: 20px auto;
+    width: 300px;
+    height: 400px;
+
 }
 
 li {
-    margin: 20px 0;
+    margin: 30px;
+
 }
 
 #inter {
@@ -90,5 +93,5 @@ li {
 }
 
 #woof {
-    font-size: 28px;
+    font-size: 40px;
 }
