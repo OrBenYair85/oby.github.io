@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    background-color: #46A8E0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 15%;
+    text-decoration: underline;
+}
+
+a {
+    border: white solid 5px;
+    border-radius: 20%;
+    margin: 5% 20% 5% 20%;
+    font-size: 100px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+a:hover {
+    color: #46A8E0;
+    background-color: white;
+}
