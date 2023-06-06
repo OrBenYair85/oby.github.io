@@ -17,6 +17,7 @@ a {
     font-size: 100px;
     color: white;
     text-decoration: none;
+    display:block;
 }
 
 a:hover {
